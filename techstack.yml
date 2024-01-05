@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/ortelius
 report_id: ee4420c11b6a731f402db2cc17f053f8
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:18:13+00:00'
+timestamp: '2024-01-05T08:24:20+00:00'
 requested_by: sbtaylor15
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: Mustache
   description: Logic-less templates
@@ -63,6 +69,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -73,6 +80,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: Perl
   description: Highly capable, feature-rich programming language with over 26 years
@@ -83,6 +91,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -93,6 +102,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -102,6 +112,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius/blob/main/dmadminweb/WebContent/WEB-INF/schema/2014071501.sql
   detection_source: dmadminweb/WebContent/WEB-INF/schema/2014071501.sql
   last_updated_by: Steve Taylor
   last_updated_on: 2017-03-06 18:11:19.000000000 Z
@@ -113,6 +124,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius/blob/main/dmadminweb/WebContent/js/README.txt
   detection_source: dmadminweb/WebContent/js/README.txt
   last_updated_by: Steve Taylor
   last_updated_on: 2017-03-06 18:11:19.000000000 Z
@@ -124,6 +136,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/ortelius/blob/main/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: DeployHub-Jenkins
   last_updated_on: 2019-01-25 18:00:35.000000000 Z
@@ -136,6 +149,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -145,6 +159,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -154,6 +169,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius/blob/main/.github/workflows/autoclose.yml
   detection_source: ".github/workflows/autoclose.yml"
   last_updated_by: Steve Taylor
   last_updated_on: 2021-01-14 22:51:29.000000000 Z
@@ -165,6 +181,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Deployment
   image_url: https://img.stackshare.io/service/9309/PoHJY3K8_400x400.jpg
+  detection_source_url: https://github.com/ankurkumarz/ortelius/blob/main/cloudbuild/cloudbuild.yaml
   detection_source: cloudbuild/cloudbuild.yaml
   last_updated_by: Steve Taylor
   last_updated_on: 2021-04-07 21:08:35.000000000 Z
@@ -177,6 +194,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius/blob/main/dmadminweb/microservice/nginx.conf
   detection_source: dmadminweb/microservice/nginx.conf
   last_updated_by: Steve Taylor
   last_updated_on: 2020-10-08 21:22:01.000000000 Z
@@ -186,6 +204,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius/blob/main/dmadminweb/WebContent/Home/index.html
   detection_source: dmadminweb/WebContent/Home/index.html
   last_updated_by: Steve Taylor
   last_updated_on: 2020-10-08 21:23:15.000000000 Z
@@ -197,6 +216,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ankurkumarz/ortelius/blob/main/dmadminweb/WebContent/js/README.txt
   detection_source: dmadminweb/WebContent/js/README.txt
   last_updated_by: Steve Taylor
   last_updated_on: 2017-03-06 18:11:19.000000000 Z
@@ -209,4 +229,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ankurkumarz/ortelius
   detection_source: Repo Metadata
